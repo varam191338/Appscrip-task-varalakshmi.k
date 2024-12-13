@@ -1,0 +1,19 @@
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-container {
+  background-color: black;
+}
+
+.payment-card {
+  height: 30px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.text-1 {
+  color: white;
+  text-align: center;
+}
